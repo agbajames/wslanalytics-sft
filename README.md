@@ -2,7 +2,7 @@
 
 > **Status**: Active Development | **Current Phase**: MVP → Production-Ready System
 
-A complete end-to-end machine learning system demonstrating parameter-efficient fine-tuning of language models for domain-specific content generation. Built to showcase full-stack ML engineering capabilities from data preparation through deployment and evaluation.
+A complete end-to-end machine learning system demonstrating parameter-efficient fine-tuning of language models for domain-specific content generation. Full-stack ML engineering from data preparation through deployment and evaluation.
 
 ## Project Vision
 
@@ -17,7 +17,7 @@ Transform a simple fine-tuning proof-of-concept into a production-ready ML syste
 
 ---
 
-## ✨ What's Built (MVP Phase)
+## What's Built (MVP Phase)
 
 ### Core Pipeline
 ```
