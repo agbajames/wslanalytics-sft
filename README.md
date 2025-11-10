@@ -1,10 +1,10 @@
-# WSLAnalytics LLM Fine-Tuning Project 🚀
+# WSLAnalytics LLM Fine-Tuning Project 
 
-> **Status**: 🔨 Active Development | **Current Phase**: MVP → Production-Ready System
+> **Status**: Active Development | **Current Phase**: MVP → Production-Ready System
 
 A complete end-to-end machine learning system demonstrating parameter-efficient fine-tuning of language models for domain-specific content generation. Built to showcase full-stack ML engineering capabilities from data preparation through deployment and evaluation.
 
-## 🎯 Project Vision
+## Project Vision
 
 Transform a simple fine-tuning proof-of-concept into a production-ready ML system with:
 - Docker containerization
@@ -197,7 +197,7 @@ Automated metrics assess:
 ### Next Steps
 1. **Scale data**: 3 → 50+ examples with emphasis on diversity
 2. **Add RL wrapper**: Enable reinforcement learning experiments
-3. **Production deploy**: Containerize and add monitoring
+3. **Production deploy**: Containerise and add monitoring
 
 ---
 
@@ -221,46 +221,3 @@ Automated metrics assess:
 - **Practical**: Real constraint that drove technical decisions
 
 ---
-
-## 📝 Documentation
-
-- **Full Playbook**: See `PLAYBOOK.md` for comprehensive setup and reproduction guide
-- **API Docs**: Run server and visit `http://localhost:8000/docs`
-- **Architecture**: See `docs/architecture.md` (coming soon)
-
----
-
-## 🤝 Contributing
-
-This is currently a personal learning and portfolio project, but suggestions and feedback are welcome! Feel free to:
-- Open issues for bugs or questions
-- Suggest improvements or extensions
-- Share ideas for RL task formulations
-
----
-
-## 📜 License
-
-MIT License - See `LICENSE` file for details
-
----
-
-## 📧 Contact
-
-**James** - [Your Email]
-
-**Project Status**: Active development, updated regularly as I progress through the roadmap.
-
-**Last Updated**: November 2024
-
----
-
-## 🙏 Acknowledgments
-
-- Built for learning ML engineering and RL task design
-- Inspired by parameter-efficient fine-tuning research
-- Part of ongoing work in sports analytics ML applications
-
----
-
-⭐ **Star this repo** if you find the approach interesting! Following along as I build this out in public.
