@@ -42,7 +42,7 @@ Raw Data → Normalize → Split → Train (LoRA) → API → Evaluate
 
 ---
 
-## 📊 Current Results
+## Current Results
 
 | Metric | Score | Notes |
 |--------|-------|-------|
@@ -59,7 +59,7 @@ Raw Data → Normalize → Split → Train (LoRA) → API → Evaluate
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 wslanalytics-sft/
@@ -85,7 +85,7 @@ wslanalytics-sft/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.9+
@@ -130,7 +130,7 @@ python eval/run_eval.py --suite all
 
 ---
 
-## 🔬 How It Works
+## How It Works
 
 ### LoRA Fine-Tuning
 Instead of training all 1.1B parameters, LoRA adds small adapter matrices to attention layers:
@@ -152,21 +152,21 @@ Automated metrics assess:
 
 ---
 
-## 📈 Active Development Roadmap
+## Active Development Roadmap
 
-### Phase 1: Scale Training Data ⏳ *In Progress*
+### Phase 1: Scale Training Data *In Progress*
 - [x] MVP with 3 training examples
 - [ ] Scale to 15 examples (diverse formats and topics)
 - [ ] Scale to 50+ examples (production-quality dataset)
 - [ ] Implement data augmentation strategies
 
-### Phase 2: RL Integration 🎯 *Next*
+### Phase 2: RL Integration *Next*
 - [ ] Wrap evaluation in Gymnasium environment
 - [ ] Implement reward shaping based on quality metrics
 - [ ] Create training loops for RL algorithms
 - [ ] Document RL task specifications
 
-### Phase 3: Production Infrastructure 🚢 *Planned*
+### Phase 3: Production Infrastructure *Planned*
 - [ ] Docker containerization
 - [ ] GitHub Actions CI/CD
 - [ ] Comprehensive test suite
@@ -181,7 +181,7 @@ Automated metrics assess:
 
 ---
 
-## 🎓 Key Learnings
+## Key Insights
 
 ### What Worked
 1. **LoRA enables practical experimentation**: CPU training in minutes vs. hours on GPU
@@ -201,7 +201,7 @@ Automated metrics assess:
 
 ---
 
-## 🔧 Technical Decisions
+## Technical Decisions
 
 ### Why LoRA over Full Fine-Tuning?
 - **Speed**: 3 minutes vs. several hours
