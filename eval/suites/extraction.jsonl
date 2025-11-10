@@ -1,0 +1,2 @@
+{"name": "Number extraction", "prompt": "Extract the numbers: 'Arsenal created 12 shots and 5 on target.'", "nums": [12, 5]}
+{"name": "Stat preservation", "prompt": "<s>You are WSLAnalytics...</s>\n<CONTEXT>Arsenal: 1.8 xG, Chelsea: 0.9 xG</CONTEXT>\n\nMention the xG values.", "nums": ["1.8", "0.9"]}

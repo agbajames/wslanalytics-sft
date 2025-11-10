@@ -1,0 +1,2 @@
+{"name": "Preview format", "prompt": "<s>You are WSLAnalytics...</s>\n<TITLE>Team Form</TITLE>\n<CONTEXT>Arsenal xG up; Chelsea GA steady.</CONTEXT>\n\nDraft 3 bullets.", "expects_bullets": true, "expects_hashtags": false}
+{"name": "Thread format", "prompt": "<s>You are WSLAnalytics...</s>\n<TITLE>Weekly Thread</TITLE>\n<CONTEXT>Arsenal pressing improved. Chelsea rotation unchanged.</CONTEXT>\n\nWrite a 3-bullet thread.", "expects_bullets": true, "expects_hashtags": true}
