@@ -156,8 +156,9 @@ Automated metrics assess:
 
 ### Phase 1: Scale Training Data *In Progress*
 - [x] MVP with 3 training examples
-- [ ] Scale to 15 examples (diverse formats and topics)
+- [x] Scale to 15+ examples (diverse formats and topics)
 - [ ] Scale to 50+ examples (production-quality dataset)
+- [ ] Planned augmentations: paraphrasing key insights, stat swaps to test numerical grounding, and temporal refreshes tied to fixture cycles
 - [ ] Implement data augmentation strategies
 
 ### Phase 2: RL Integration *Next*
